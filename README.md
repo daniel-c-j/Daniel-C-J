@@ -8,7 +8,7 @@ There isn't a lot that stands out as interesting about me. I just like learning 
 
 ## My skills
 
-[![Skill Set 1](https://skillicons.dev/icons?i=flutter,nodejs,git,firebase,supabase,githubactions
+[![Skill Set 1](https://skillicons.dev/icons?i=flutter,git,firebase,supabase,githubactions
 )](https://skillicons.dev)
 
 [![Skill Set 2](https://skillicons.dev/icons?i=py,dart,java,postgres,sqlite,md,bash,regex
