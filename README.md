@@ -1,6 +1,6 @@
 # About me
 
-Daniel CJ here.
+Hi, Daniel CJ here.
 
 I'm a digital technology ethusiast, currently lurking in the mobile development world, mainly Flutter. I also do scripting with Python either for automation or destroying Operating Systems.
 
