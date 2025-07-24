@@ -4,12 +4,12 @@ I'm a digital technology ethusiast currently lurking in the mobile development w
 
 There isn't a lot that stands out as interesting about me. I just like learning something new because I find it entertaining and addicting (Just like caffeine☕).
 
-## My skills
+## My tech stack
 
-[![Skill Set 1](https://skillicons.dev/icons?i=flutter,git,firebase,supabase,githubactions
+[![Skill Set 1](https://skillicons.dev/icons?i=flutter,react,tailwind,nodejs,git,firebase,supabase,githubactions
 )](https://skillicons.dev)
 
-[![Skill Set 2](https://skillicons.dev/icons?i=html,css,js,py,dart,java,postgres,sqlite,md,bash,regex
+[![Skill Set 2](https://skillicons.dev/icons?i=html,css,js,py,dart,postgres,sqlite,md,bash,regex
 )](https://skillicons.dev)
 
 [![Skill Set 3](https://skillicons.dev/icons?i=vscode,atom,anaconda,figma,ps,materialui,github,linux,ubuntu,debian,
