@@ -1,6 +1,6 @@
 Hi ✋, Daniel CJ here.
 
-I'm a digital technology ethusiast currently lurking in the web development, and mobile development world, mainly Flutter. I also do scripting with Python either for automation or destroying Operating Systems. Lastly, linux is friend.
+I'm a digital technology ethusiast currently lurking in the web development, and mobile development world, mainly Flutter. I also do scripting with Python either for automation or destroying Operating Systems. While my tech stacks seems all front-end focused, I also do back-ends... Sometimes :). 
 
 There isn't a lot that stands out as interesting about me. I just like learning something new because I find it entertaining and addicting (Just like caffeine☕).
 
